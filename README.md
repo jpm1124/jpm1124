@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning more about **node.js, bootstrap, mySQL**
 
-- 💬 Ask me about **python, JavaScript, CSS, HTML, Zapier API integrations**
+- 💬 Ask me about **Python, JavaScript, CSS, HTML, Zapier API integrations**
 
 - 📫 How to reach me **me@jpmussalli.com**
 
