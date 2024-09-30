@@ -4,12 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpm1124&label=Profile%20views&color=0e75b6&style=flat" alt="jpm1124" /> </p>
 
 - 🏗️ I’m currently working on [personal site](jpmussalli.com)
+- 
+- 🏗️ I’m currently working on **a dental Office's new website, and customer-facing systems**
 
 - 🌱 I’m currently learning more about **node.js, bootstrap, mySQL**
-
-- 🏗️ I’m currently working on **a Sushi 's  new website**
-
-- 🏗️ I’m currently working on **a dental Office's new website, CRM & booking systems**
 
 - 💬 Ask me about **python, JavaScript, CSS, HTML, OpenAI API, Zapier API integrations**
 
@@ -34,10 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpm1124&show_icons=true&locale=en" alt="jpm1124" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpm1124&" alt="jpm1124" /></p>
-errer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpm1124&show_icons=true&locale=en&layout=compact" alt="jpm1124" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpm1124&show_icons=true&locale=en" alt="jpm1124" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpm1124&" alt="jpm1124" /></p>
