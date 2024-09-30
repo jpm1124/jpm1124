@@ -5,7 +5,7 @@
 
 - 🏗️ I’m currently working on [personal site](jpmussalli.com)
   
-- 🏗️ I’m currently working on **a dental Office's new website, and customer-facing systems**
+- 🏗️ I’m currently working on **a dental Office's new website, and building its customer-facing systems**
 
 - 🌱 I’m currently learning more about **node.js, bootstrap, mySQL**
 
