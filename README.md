@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpm1124&label=Profile%20views&color=0e75b6&style=flat" alt="jpm1124" /> </p>
 
-- 🏗️ I’m currently working on [personal site](jpmussalli.com)
+- 🏗️ I’m currently working on my [personal site](jpmussalli.com)
   
-- 🏗️ I’m currently working on **a dental Office's new website, and building its customer-facing systems**
+- 🏗️ I’m currently working on **a dental office's new website, and building its customer-facing systems**
 
 - 🌱 I’m currently learning more about **node.js, bootstrap, mySQL**
 
-- 💬 Ask me about **Python, JavaScript, CSS, HTML, Zapier API integrations**
+- 💬 Ask me about **Python, JavaScript, CSS, HTML, Java,  Zapier API integrations**
 
 - 📫 How to reach me **me@jpmussalli.com**
 
