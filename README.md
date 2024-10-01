@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Paul</h1>
 <h3 align="center">An Aspiring Full-Stack Engineer from NYC</h3>
-<h4 align="center">Unfortunately, all of my projects are in private repositories.<br> I am working on many open-source projects, which I'll upload publically to GitHub soon.</h4>
+<h4 align="center">Unfortunately, almost all of my projects need to remain in private repositories.<br> I am working on many open-source projects, which I'll upload publically to GitHub very soon.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpm1124&label=Profile%20views&color=0e75b6&style=flat" alt="jpm1124" /> </p>
 
