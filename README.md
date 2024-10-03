@@ -8,7 +8,7 @@
   - my [personal site](jpmussalli.com)
   - **building a dental office's website, and designing its customer-facing systems**
   - **Upending the FDNY HNS (FNDY Holy Name Society)'s membership databases**
-  - **Building Akiyama Sushi a new website and implementing a custom end-to-end customer ordering platform for the website** 
+  - **Building Akiyama Sushi a new website and implementing on it a custom end-to-end customer ordering platform** 
 
 - 🌱 I’m currently learning more about **node.js, bootstrap, mySQL**
 
