@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpm1124&label=Profile%20views&color=0e75b6&style=flat" alt="jpm1124" /> </p>
 
-- 🏗️ I’m currently working on my [personal site](jpmussalli.com)
-  
-- 🏗️ I’m currently working on **a dental office's new website, and building its customer-facing systems**
+- 🏗️ I’m currently working on:
+  - my [personal site](jpmussalli.com)
+  - **building a dental office's website, and designing its customer-facing systems**
+  - **Upending the FDNY HNS (FNDY Holy Name Society)'s membership databases**
+  - **Building Akiyama Sushi a new website and implementing a custom end-to-end customer ordering platform for the website** 
 
 - 🌱 I’m currently learning more about **node.js, bootstrap, mySQL**
 
