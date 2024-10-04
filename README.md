@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, JavaScript, CSS, HTML, Java,  Zapier API integrations**
 
-- 📫 How to reach me **me@jpmussalli.com**
+- 📫 How to reach me **jp@jpmussalli.com**
 
 - ⚡ Fun fact **I love camping and the outdoors**
 - ⚡ Bonus Fun fact **I am left handed**
