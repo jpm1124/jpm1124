@@ -9,7 +9,7 @@
   - **Upending the FDNY HNS (FNDY Holy Name Society)'s membership databases**
   - **Building Akiyama Sushi a new website and implementing on it a custom end-to-end customer ordering platform** 
 
-- 🌱 I’m currently learning more about **node.js, bootstrap, mySQL**
+- 🌱 I’m currently learning more about **node.js, bootstrap, mySQL, OpenAI API**
 
 - 💬 Ask me about **Python, JavaScript, CSS, HTML, Java,  Zapier API integrations**
 
